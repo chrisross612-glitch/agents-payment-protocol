@@ -1,0 +1,8 @@
+{
+  "from_agent": "AgentB",
+  "to_agent": "AgentA",
+  "intent": "payment_confirmation",
+  "reference_transaction": "0x6da917e5c98d4edec5a8910bbaba3b61781ae9654b5f4a827859f26cbd85c163",
+  "status": "confirmed",
+  "timestamp": "2025-08-27T15:45:00Z"
+}
